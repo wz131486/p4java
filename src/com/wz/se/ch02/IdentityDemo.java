@@ -7,5 +7,7 @@ public class IdentityDemo
 		// int 1b_$=0;
 //		int static = 999;
 		int a = 999;
+
+
 	}
 }
